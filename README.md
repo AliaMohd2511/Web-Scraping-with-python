@@ -1,2 +1,2 @@
 # Web-Scraping-with-python
-web scraping with python will help gathering data from different websites quickly
+web scraping with Python will help gather data from different websites quickly.
