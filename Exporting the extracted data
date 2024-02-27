@@ -1,0 +1,2 @@
+# Export the data to a CSV file
+df.to_csv('top-rated-movies.csv', index=False)
