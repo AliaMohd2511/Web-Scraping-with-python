@@ -15,3 +15,6 @@ Use the command pip install time to install the 'time' module.
 'time' is employed to introduce delays between HTTP requests, preventing the script from overwhelming the IMDb website and ensuring responsible web scraping practices.
 
 By installing these libraries, users equip the IMDb Top 250 Movies Scraper with the necessary tools to effectively retrieve, parse, and manage movie data from IMDb's Top 250 list. Ensure compliance with IMDb's terms of service and adjust the script if the website structure evolves.
+
+<<install the libraries using the following command:>>
+pip install requests beautifulsoup4 pandas time
