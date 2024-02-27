@@ -1,0 +1,17 @@
+1. requests:
+Use pip install requests to install the 'requests' library.
+This library enables seamless HTTP requests, allowing the scraper to fetch data from the IMDb website.
+
+2. BeautifulSoup:
+Execute pip install beautifulsoup4 to install 'BeautifulSoup'.
+'BeautifulSoup' is instrumental in parsing the HTML code retrieved from the IMDb website, extracting relevant information for further processing.
+
+3. pandas:
+Install 'pandas' with the command pip install pandas.
+'pandas' plays a crucial role in organizing and storing the scraped data in a structured data frame, facilitating efficient data manipulation and analysis.
+
+4. time:
+Use the command pip install time to install the 'time' module.
+'time' is employed to introduce delays between HTTP requests, preventing the script from overwhelming the IMDb website and ensuring responsible web scraping practices.
+
+By installing these libraries, users equip the IMDb Top 250 Movies Scraper with the necessary tools to effectively retrieve, parse, and manage movie data from IMDb's Top 250 list. Ensure compliance with IMDb's terms of service and adjust the script if the website structure evolves.
